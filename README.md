@@ -80,3 +80,5 @@ This is a good reminder that Keras/TensorFlow methods often return NumPy arrays 
 - TensorFlow 2.x / Keras
 - Google Colaboratory
 - NumPy, Matplotlib
+## Resources 
+https://youtu.be/eg8DJYwdMyg?si=XzjPA3QdJQ6maONR 
